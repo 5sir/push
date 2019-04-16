@@ -19,10 +19,6 @@
             "url": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8",
         },
         {
-            "name": "五星体育1080P",
-            "url": "http://111.48.34.209/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/3.m3u8?icpid=88888888&from=1&ocs=2_111.48.34.209_80&hms_devid=443",
-        },
-        {
             "name": "奕坛春秋[1047*576]",
             "url": "http://223.110.245.139:80/PLTV/4/224/3221227031/index.m3u8",
         },
@@ -93,10 +89,6 @@
         {
             "name": "CIBN 流金岁月",
             "url": "http://dangbei.ds01.cibn.cc/hls/vCIBNSCPD/1800/vCIBNSCPD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed",
-        },
-        {
-            "name": "CIBN 汽车",
-            "url": "http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNQCPD/1800/vCIBNQCPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86",
         },
         {
             "name": "CIBN 情感影院",
@@ -245,10 +237,6 @@
         {
             "name": "旅游卫视(海南)",
             "url": "http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8",
-        },
-        {
-            "name": "D:\\破解专用\\其它应用\\PotPlayer64_1.7.10667_Public\\Playlist\\* ======",
-            "url": "http://2/2.m3u8",
         },
         {
             "name": "CBSNews",
@@ -519,10 +507,6 @@
             "url": "http://161.0.157.5/PLTV/88888888/224/3221226847/01.m3u8",
         },
         {
-            "name": "D:\\破解专用\\其它应用\\PotPlayer64_1.7.10667_Public\\Playlist\\* ======",
-            "url": "http://3/3.m3u8",
-        },
-        {
             "name": "金鹰卡通",
             "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8",
         },
@@ -641,10 +625,6 @@
         {
             "name": "熊猫ipanda",
             "url": "http://112.50.243.10/PLTV/88888888/224/3221226597/index.m3u8",
-        },
-        {
-            "name": "D:\\破解专用\\其它应用\\PotPlayer64_1.7.10667_Public\\Playlist\\* ======",
-            "url": "http://4/4.m3u8",
         },
         {
             "name": "虎牙-网球王子",
@@ -1603,10 +1583,6 @@
             "url": "http://chyd-wsvod.wasu.tv/data12/ott/344/2015-03/05/1425521511475_343177/playlist.m3u8",
         },
         {
-            "name": "D:\\破解专用\\其它应用\\PotPlayer64_1.7.10667_Public\\Playlist\\* ======",
-            "url": "http://5/5.m3u8",
-        },
-        {
             "name": "超级体育1 HD",
             "url": "http://39.134.52.162/wh7f454c46tw3498689980_663871177/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226019/index.m3u8",
         },
@@ -1759,20 +1735,12 @@
             "url": "http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8",
         },
         {
-            "name": "D:\\破解专用\\其它应用\\PotPlayer64_1.7.10667_Public\\Playlist ======",
-            "url": "http://7/7.m3u8",
-        },
-        {
             "name": "天元围棋(失效暂保留)",
             "url": "http://116.66.222.46:8082/TV3003.m3u8",
         },
         {
             "name": "天元围棋频道(失效暂保留)",
             "url": "http://guoguang.live.otvcloud.com/otv/xjgg/live/channel62/1300.m3u8",
-        },
-        {
-            "name": "D:\\破解专用\\其它应用\\PotPlayer64_1.7.10667_Public\\Playlist ======",
-            "url": "http://8/8.m3u8",
         },
         {
             "name": "弈坛春秋2",
@@ -1805,10 +1773,6 @@
         {
             "name": "World-Fishing-Network",
             "url": "http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8",
-        },
-        {
-            "name": "D:\\破解专用\\其它应用\\PotPlayer64_1.7.10667_Public\\Playlist\\* ======",
-            "url": "http://9/9.m3u8",
         },
         {
             "name": "CCTV-1FHD",
@@ -2267,10 +2231,6 @@
             "url": "http://183.207.249.6/PLTV/3/224/3221225572/index.m3u8",
         },
         {
-            "name": "D:\\破解专用\\其它应用\\PotPlayer64_1.7.10667_Public\\Playlist\\* ======",
-            "url": "http://10/10.m3u8",
-        },
-        {
             "name": "北京卫视HD",
             "url": "http://223.110.243.173/PLTV/3/224/3221227246/index.m3u8",
         },
@@ -2701,10 +2661,6 @@
         {
             "name": "new黑龙江卫视",
             "url": "http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8",
-        },
-        {
-            "name": "D:\\破解专用\\其它应用\\PotPlayer64_1.7.10667_Public\\Playlist\\* ======",
-            "url": "http://11/11.m3u8",
         },
         {
             "name": "CCTV1",
