@@ -1,0 +1,1457 @@
+{
+         "uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+         "title": "影视大全",
+         "channels": [
+         {
+            "name": "猫和老鼠",
+            "url": "https://aldirect.hls.huya.com/huyalive/94525224-2475824398-10633584820048887808-2847687532-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "峨眉电影高清源",
+            "url": "http://scgctvshow.sctv.com/hdlive/emei/3.m3u8",
+        },
+        {
+            "name": "First-Movies",
+            "url": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8",
+        },
+        {
+            "name": "CIBN 电影",
+            "url": "http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86",
+        },
+        {
+            "name": "CIBN 动作影院",
+            "url": "http://dangbei.ds01.cibn.cc/hls/vCIBNDZYY/1800/vCIBNDZYY.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed",
+        },
+        {
+            "name": "CIBN 古装剧场",
+            "url": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86",
+        },
+        {
+            "name": "CIBN 好莱坞",
+            "url": "http://dangbei.ds01.cibn.cc/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed",
+        },
+        {
+            "name": "CIBN 骄阳剧场",
+            "url": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86",
+        },
+        {
+            "name": "CIBN 经典剧场",
+            "url": "http://dangbei.ds01.cibn.cc/hls/vCIBNJCJD/1800/vCIBNJCJD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed",
+        },
+        {
+            "name": "CIBN 精品影院",
+            "url": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86",
+        },
+        {
+            "name": "CIBN 流金岁月",
+            "url": "http://dangbei.ds01.cibn.cc/hls/vCIBNSCPD/1800/vCIBNSCPD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed",
+        },
+        {
+            "name": "CIBN 微电影",
+            "url": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86",
+        },
+        {
+            "name": "CIBN 喜剧影院",
+            "url": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86",
+        },
+        {
+            "name": "CIBN 院线大片",
+            "url": "http://dangbei.ds01.cibn.cc/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed",
+        },
+        {
+            "name": "CIBN 真人秀",
+            "url": "http://dangbei.ds01.cibn.cc/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed",
+        },
+        {
+            "name": "CIBN 综合",
+            "url": "http://dangbei.ds01.cibn.cc/hls/vCIBNXQDPD/1800/vCIBNXQDPD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed",
+        },
+        {
+            "name": "香港卫视",
+            "url": "http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8",
+        },
+        {
+            "name": "環球電視",
+            "url": "http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8",
+        },
+        {
+            "name": "凤凰卫视中文台",
+            "url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8",
+        },
+        {
+            "name": "凤凰卫视香港台",
+            "url": "http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8",
+        },
+        {
+            "name": "新喜剧之王",
+            "url": "http://app.xiaokanba.com/newmovie/MoviePlay.m3u8?id=187489&type=zuida&name=m3u8",
+        },
+        {
+            "name": "舌尖上的中国",
+            "url": "http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8",
+        },
+        {
+            "name": "相声",
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8",
+        },
+        {
+            "name": "TB-TV",
+            "url": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8",
+        },
+        {
+            "name": "HBO2",
+            "url": "http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8",
+        },
+        {
+            "name": "HBO2",
+            "url": "http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8",
+        },
+        {
+            "name": "HBO",
+            "url": "http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8",
+        },
+        {
+            "name": "hollywood movies 1",
+            "url": "http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "hollywood movies 2",
+            "url": "http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "Dance Music TV",
+            "url": "https://vcndmtv.teleosmedia.com/stream/dmtv/dmtv/seglist_720p.m3u8",
+        },
+        {
+            "name": "Miami-TV18+",
+            "url": "http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8",
+        },
+        {
+            "name": "金鹰卡通",
+            "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8",
+        },
+        {
+            "name": "动画-88-优漫卡通",
+            "url": "http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8",
+        },
+        {
+            "name": "金鹰卡通",
+            "url": "http://223.110.242.130:6610/cntv/live1/jinyingkaton/1.m3u8",
+        },
+        {
+            "name": "炫动卡通",
+            "url": "http://223.110.242.130:6610/cntv/live1/xuandongkaton/1.m3u8",
+        },
+        {
+            "name": "嘉佳卡通",
+            "url": "http://nclive.grtn.cn/jjkt/sd/live.m3u8",
+        },
+        {
+            "name": "虎牙-网球王子",
+            "url": "https://aldirect.hls.huya.com/huyalive/29359996-2689609142-11551783303912620032-2847687544-10057-A-1525493612-1_1200.m3u8",
+        },
+        {
+            "name": "虎牙-四驱兄弟",
+            "url": "https://aldirect.hls.huya.com/huyalive/94525224-2472045388-10617354095687630848-2847687664-10057-A-1526356723-1_1200.m3u8",
+        },
+        {
+            "name": "虎牙-陆小凤传奇-张智霖",
+            "url": "https://aldirect.hls.huya.com/huyalive/28466698-2689664968-11552023074756886528-3048991596-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "虎牙-隋唐英雄-张卫健版",
+            "url": "https://aldirect.hls.huya.com/huyalive/28466698-2689650368-11551960368234364928-2847687592-10057-A-1525508640-1_1200.m3u8",
+        },
+        {
+            "name": "虎牙-灵异侦缉档案",
+            "url": "https://aldirect.hls.huya.com/huyalive/29359996-2689642844-11551928052900429824-2847699142-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "虎牙-北平无战事",
+            "url": "https://aldirect.hls.huya.com/huyalive/94525224-2583571852-11096356611206152192-2847687652-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "虎牙-神探狄仁杰",
+            "url": "https://aldirect.hls.huya.com/huyalive/28466698-2689651522-11551965324626624512-2847699166-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "虎牙-欢天喜地七仙女",
+            "url": "https://aldirect.hls.huya.com/huyalive/94525224-2579730250-11079857056251904000-3048959666-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "虎牙-倚天屠龙记",
+            "url": "https://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "虎牙-康熙微服私访记",
+            "url": "https://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "虎牙-笑傲江湖-霍建华陈乔恩",
+            "url": "https://aldirect.hls.huya.com/huyalive/29359996-2689640740-11551919016289239040-2847699140-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "虎牙-楚汉传奇-陈道明版",
+            "url": "https://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "虎牙-天下第一",
+            "url": "https://aldirect.hls.huya.com/huyalive/30765679-2691679356-11560674805338341376-2847699204-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "虎牙-僵尸道长",
+            "url": "https://aldirect.hls.huya.com/huyalive/29359996-2689615538-11551810774523445248-2847687642-10057-A-1525496014-1_1200.m3u8",
+        },
+        {
+            "name": "虎牙-西游记后传",
+            "url": "https://aldirect.hls.huya.com/huyalive/28466698-2689664106-11552019372495077376-3049003110-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "风云·成也风云败也风云",
+            "url": "https://aldirect.hls.huya.com/huyalive/30765679-2481506528-10657989382570508288-2789274552-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "五度空间",
+            "url": "https://www.48iuz.com/20181211/bvlCArmL/index.m3u8",
+        },
+        {
+            "name": "齐天大圣-万妖之城",
+            "url": "https://www.48iuz.com/20181016/ZgbsM34C/index.m3u8",
+        },
+        {
+            "name": "TVB神剧",
+            "url": "http://hls-ott-zhibo.wasu.tv/live/202/index.m3u8",
+        },
+        {
+            "name": "欢笑剧场",
+            "url": "http://183.207.249.15/PLTV/2/224/3221226031/index.m3u8",
+        },
+        {
+            "name": "CBN每日影院",
+            "url": "http://42.48.60.248:8082/live/gqts-800k.m3u8",
+        },
+        {
+            "name": "CBN幸福剧场",
+            "url": "http://42.48.60.248:8082/live/gqys-800k.m3u8",
+        },
+        {
+            "name": "日本电影源",
+            "url": "http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8",
+        },
+        {
+            "name": "张艺谋导演《影》高清版本资源",
+            "url": "https://tudou.com-l-tudou.com/20181129/14668_3c425f2e/1000k/hls/index.m3u8",
+        },
+        {
+            "name": "三十而立",
+            "url": "http://sina.jingpinxiazai.com/20180924/G9AUy79E/index.m3u8",
+        },
+        {
+            "name": "科幻电影源",
+            "url": "http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "惊悚电影",
+            "url": "http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8",
+        },
+        {
+            "name": "Movies-1",
+            "url": "http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8",
+        },
+        {
+            "name": "Movies-2",
+            "url": "http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "Movies-3",
+            "url": "http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "陈翔六点半",
+            "url": "http://tx.hls.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1.m3u8",
+        },
+        {
+            "name": "成龙电影",
+            "url": "http://tx.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8",
+        },
+        {
+            "name": "徐峥电影",
+            "url": "http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8",
+        },
+        {
+            "name": "周星驰电影",
+            "url": "http://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8",
+        },
+        {
+            "name": "周润发电影",
+            "url": "http://tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1.m3u8",
+        },
+        {
+            "name": "刘德华电影",
+            "url": "http://tx.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8",
+        },
+        {
+            "name": "李连杰电影",
+            "url": "http://tx.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8",
+        },
+        {
+            "name": "洪金宝电影",
+            "url": "http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8",
+        },
+        {
+            "name": "林正英电影",
+            "url": "http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8",
+        },
+        {
+            "name": "甄子丹电影",
+            "url": "http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8",
+        },
+        {
+            "name": "古天乐电影",
+            "url": "http://tx.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1.m3u8",
+        },
+        {
+            "name": "斯坦森电影",
+            "url": "http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8",
+        },
+        {
+            "name": "徐克导演",
+            "url": "http://tx.hls.huya.com/huyalive/29106097-2689447148-11551087544980471808-2789253872-10057-A-1525420294-1.m3u8",
+        },
+        {
+            "name": "王晶导演",
+            "url": "http://tx.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1.m3u8",
+        },
+        {
+            "name": "古惑仔电影",
+            "url": "http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8",
+        },
+        {
+            "name": "赌博电影",
+            "url": "http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8",
+        },
+        {
+            "name": "漫威电影",
+            "url": "http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8",
+        },
+        {
+            "name": "女神港片",
+            "url": "http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8",
+        },
+        {
+            "name": "怪物科幻",
+            "url": "http://tx.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1.m3u8",
+        },
+        {
+            "name": "丧尸电影",
+            "url": "http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8",
+        },
+        {
+            "name": "战争电影",
+            "url": "http://tx.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1.m3u8",
+        },
+        {
+            "name": "犯罪悬疑",
+            "url": "http://tx.hls.huya.com/huyalive/30765679-2480288304-10652757150331305984-2789274538-10057-A-1511757260-1.m3u8",
+        },
+        {
+            "name": "灾难电影",
+            "url": "http://tx.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1.m3u8",
+        },
+        {
+            "name": "真实改编",
+            "url": "http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8",
+        },
+        {
+            "name": "复仇犯罪",
+            "url": "http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8",
+        },
+        {
+            "name": "周星驰",
+            "url": "http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "林正英",
+            "url": "http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "刘德华",
+            "url": "http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "王晶",
+            "url": "http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "李连杰",
+            "url": "http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "成龙",
+            "url": "https://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "赵本山小品",
+            "url": "https://aldirect.hls.huya.com/huyalive/29106097-2689443426-11551071559112196096-2789253866-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "赌片合集",
+            "url": "https://aldirect.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "黄渤",
+            "url": "https://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "徐峥",
+            "url": "https://aldirect.hls.huya.com/huyalive/29106097-2689278568-11550363499393712128-2710090468-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "炫韩娱",
+            "url": "http://dlhls.live.cnlive.com:1935/cdn/xuanhanyu/playlist.m3u8",
+        },
+        {
+            "name": "方世玉1",
+            "url": "https://sina.jingpinxiazai.com/20180829/mTvwcAKm/index.m3u8",
+        },
+        {
+            "name": "方世玉Ⅱ万夫莫敌",
+            "url": "https://sina.jingpinxiazai.com/20180829/5b3w7UMK/index.m3u8",
+        },
+        {
+            "name": "虎牙轮播电影",
+            "url": "http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "洪金宝",
+            "url": "http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "系列惊悚片Friday-the-13th(黑色星期五)1",
+            "url": "https://video.fjhps.com/20180302/7srg48ax/index.m3u8",
+        },
+        {
+            "name": "系列惊悚片Friday-the-13th(黑色星期五)2",
+            "url": "https://vip888.kuyun99.com/20180824/WJB07qKa/index.m3u8",
+        },
+        {
+            "name": "系列惊悚片Friday-the-13th(黑色星期五)3",
+            "url": "https://vip888.kuyun99.com/20180824/RgoY6gc7/index.m3u8",
+        },
+        {
+            "name": "系列惊悚片Friday-the-13th(黑色星期五)4",
+            "url": "https://vip888.kuyun99.com/20180824/GaQcPLdG/index.m3u8",
+        },
+        {
+            "name": "系列惊悚片Friday-the-13th(黑色星期五)5",
+            "url": "https://vip888.kuyun99.com/20180824/HjxbFCCd/index.m3u8",
+        },
+        {
+            "name": "系列惊悚片Friday-the-13th(黑色星期五)6",
+            "url": "https://vip888.kuyun99.com/20180824/dsejI0LI/index.m3u8",
+        },
+        {
+            "name": "系列惊悚片Friday-the-13th(黑色星期五)7",
+            "url": "https://vip888.kuyun99.com/20180824/MMrikhSZ/index.m3u8",
+        },
+        {
+            "name": "系列惊悚片Friday-the-13th(黑色星期五)8",
+            "url": "http://vip.yingshidaqian.com/20180803/YBVdk7Zx/index.m3u8",
+        },
+        {
+            "name": "系列惊悚片Friday-the-13th(黑色星期五)终结篇",
+            "url": "http://zaixian.jingpin88.com/20180415/MkbFosFB/index.m3u8",
+        },
+        {
+            "name": "倚天屠龙记国语高清",
+            "url": "http://videos.fjhps.com/ppvod/2F53446F9AC2B1218A6D94B74B7FACE3.m3u8",
+        },
+        {
+            "name": "八仙饭店之人肉叉烧包",
+            "url": "http://hao.zuida-youku.com/20170624/Bb728rKx/index.m3u8",
+        },
+        {
+            "name": "人肉叉烧包2之天诛地灭",
+            "url": "http://hao.zuida-youku.com/20170624/peBzcBCu/index.m3u8",
+        },
+        {
+            "name": "伊波拉病毒",
+            "url": "http://v2.yongjiujiexi.com/ppvod/4BFBC87819ECD2D574DC5AE04EF645F4.m3u8",
+        },
+        {
+            "name": "CCTV-6-1080p-2",
+            "url": "http://183.207.249.9/PLTV/3/224/3221225548/index.m3u8",
+        },
+        {
+            "name": "CCTV-6-1080p-3",
+            "url": "http://223.110.245.172/PLTV/3/224/3221225548/index.m3u8",
+        },
+        {
+            "name": "CCTV-6-1080p-4",
+            "url": "http://223.110.245.173/PLTV/3/224/3221225548/index.m3u8",
+        },
+        {
+            "name": "江苏移动-CCTV6FHD2",
+            "url": "http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8",
+        },
+        {
+            "name": "江苏移动-CCTV6FHD3",
+            "url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8",
+        },
+        {
+            "name": "江苏移动-CCTV6FHD4",
+            "url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227301/index.m3u8",
+        },
+        {
+            "name": "江苏移动-NewTV海外剧场",
+            "url": "http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221225547/index.m3u8",
+        },
+        {
+            "name": "江苏移动-NewTV家庭剧场",
+            "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225549/index.m3u8",
+        },
+        {
+            "name": "江苏移动-NewTV精品大剧FHD",
+            "url": "http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221225569/index.m3u8",
+        },
+        {
+            "name": "江苏移动-NewTV精品电影FHD",
+            "url": "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8",
+        },
+        {
+            "name": "江苏移动-NewTV明星大片FHD",
+            "url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225535/index.m3u8",
+        },
+        {
+            "name": "江苏移动-都市剧场",
+            "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221226029/index.m3u8",
+        },
+        {
+            "name": "江苏移动-影视剧频道",
+            "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227372/index.m3u8",
+        },
+        {
+            "name": "Newtv惊悚悬疑-1080P",
+            "url": "http://183.207.249.7/PLTV/3/224/3221225561/index.m3u8",
+        },
+        {
+            "name": "Newtv精品电影-1080P",
+            "url": "http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8",
+        },
+        {
+            "name": "Newtv明星大片-1080P",
+            "url": "http://183.207.249.14/PLTV/3/224/3221225535/index.m3u8",
+        },
+        {
+            "name": "Newtv家庭剧场-1080P",
+            "url": "http://183.207.249.14/PLTV/3/224/3221225549/index.m3u8",
+        },
+        {
+            "name": "战旗TV直播1",
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8",
+        },
+        {
+            "name": "战旗TV直播2",
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8",
+        },
+        {
+            "name": "战旗TV直播3",
+            "url": "http://alhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8",
+        },
+        {
+            "name": "战旗TV直播4",
+            "url": "http://alhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8",
+        },
+        {
+            "name": "战旗TV直播6",
+            "url": "http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8",
+        },
+        {
+            "name": "战旗:三国",
+            "url": "http://alhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8",
+        },
+        {
+            "name": "鬼手传奇之听风瓶",
+            "url": "https://vip.pp63.org/20180627/iGov2dLY/index.m3u8",
+        },
+        {
+            "name": "鬼手传奇之听风瓶2",
+            "url": "https://vip.pp63.org/20180627/igov2dly/500kb/hls/index.m3u8",
+        },
+        {
+            "name": "犬之岛(Isle-of-Dogs)",
+            "url": "https://vip.pp63.org/20180621/a9NE1WBX/index.m3u8",
+        },
+        {
+            "name": "犬之岛(Isle-of-Dogs)2",
+            "url": "https://vip.pp63.org/20180621/a9ne1wbx/hls/index.m3u8",
+        },
+        {
+            "name": "九门提督",
+            "url": "https://vip.pp63.org/20180624/3TvSEnjj/index.m3u8",
+        },
+        {
+            "name": "九门提督2",
+            "url": "https://vip.pp63.org/20180624/3TvSEnjj/500kb/hls/index.m3u8",
+        },
+        {
+            "name": "骨妹(国语)",
+            "url": "https://vip.pp63.org/20180624/RtJFgoAd/index.m3u8",
+        },
+        {
+            "name": "骨妹(国语)2",
+            "url": "https://vip.pp63.org/20180624/RtJFgoAd/hls/index.m3u8",
+        },
+        {
+            "name": "骨妹(粤语)",
+            "url": "https://vip.pp63.org/20180624/jkUEh9it/index.m3u8",
+        },
+        {
+            "name": "骨妹(粤语)2",
+            "url": "https://vip.pp63.org/20180624/jkUEh9it/hls/index.m3u8",
+        },
+        {
+            "name": "爱欲故是",
+            "url": "https://vip.pp63.org/20180622/96C9oF5n/hls/index.m3u8",
+        },
+        {
+            "name": "偷情别墅",
+            "url": "https://vip.pp63.org/20180622/a2hENBDD/hls/index.m3u8",
+        },
+        {
+            "name": "我是你妈",
+            "url": "https://youku.cdn-tudou.com/20180612/6361_e5847fe9/index.m3u8",
+        },
+        {
+            "name": "巴霍巴利王：开端 (2015)",
+            "url": "https://youku.cdn-163.com/20180506/6851_7ffde9de/index.m3u8",
+        },
+        {
+            "name": "巴霍巴利王2：终结 (2017)",
+            "url": "https://youku.cdn-tudou.com/20180605/6270_8af8cd4f/1000k/hls/index.m3u8",
+        },
+        {
+            "name": "血战湘江",
+            "url": "http://yingshi.yazyzw.com/ppvod/15D6A529C80B2C3A794DC013D333F1FC.m3u8",
+        },
+        {
+            "name": "林正英",
+            "url": "http://js.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "王晶导演",
+            "url": "https://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "赌博电影",
+            "url": "http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "香港电影",
+            "url": "http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8",
+        },
+        {
+            "name": "开心鬼",
+            "url": "https://aldirect.hls.huya.com/huyalive/29169025-2686220062-11537227316149092352-2777037828-10057-A-1524041857-1_1200.m3u8",
+        },
+        {
+            "name": "台湾重口味电影",
+            "url": "https://al.hls.huya.com/huyalive/94525224-2696926374-11583210576049864704-4479103546-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "考古系列片",
+            "url": "https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8",
+        },
+        {
+            "name": "黑夜传说",
+            "url": "https://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8",
+        },
+        {
+            "name": "死神来了",
+            "url": "https://txdirect.hls.huya.com/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "西方神话",
+            "url": "https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "未解之谜",
+            "url": "https://aldirect.hls.huya.com/huyalive/28466698-2689662310-11552011658733813760-3048959582-10057-A-1525512946-1_1200.m3u8",
+        },
+        {
+            "name": "电锯惊魂",
+            "url": "https://al.hls.huya.com/huyalive/29106097-2689451202-11551104956777889792-2789274590-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "小偷家族",
+            "url": "https://yong.yongjiu6.com/ppvod/528AADCC0984F1B7400E987492BE93E2.m3u8",
+        },
+        {
+            "name": "的士速递5",
+            "url": "https://yong.yongjiu6.com/ppvod/16E3214D826CCE93A334566640A5EC03.m3u8",
+        },
+        {
+            "name": "江湖儿女",
+            "url": "https://zkgn.wb699.com/2018/10/05/mUBSonSef5dZYnYR/playlist.m3u8",
+        },
+        {
+            "name": "悲伤逆流成河",
+            "url": "https://zkgn.wb699.com/2018/10/05/DLsOL3jdSVhlOd0E/playlist.m3u8",
+        },
+        {
+            "name": "影",
+            "url": "https://zkgn.wb699.com/2018/10/05/vVRz0cnHk1PgKqDF/playlist.m3u8",
+        },
+        {
+            "name": "无双",
+            "url": "https://zkgn.wb699.com/2018/10/04/VZD6l8Tlc9D6BTAM/playlist.m3u8",
+        },
+        {
+            "name": "李茶的姑妈",
+            "url": "https://zkgn.wb699.com/2018/10/04/3PsgQWstGgMfFDvO/playlist.m3u8",
+        },
+        {
+            "name": "胖子行动队",
+            "url": "https://zkgn.wb699.com/2018/10/04/aVWM11EGdT3LsWoI/playlist.m3u8",
+        },
+        {
+            "name": "动物世界BD",
+            "url": "https://zkgn.wb699.com/2018/09/28/5B5IzgjXObXM14GZ/playlist.m3u8",
+        },
+        {
+            "name": "爱情公寓",
+            "url": "http://zuikzy.51moca.com/2018/09/09/maFWPBnXR369uOwa/playlist.m3u8",
+        },
+        {
+            "name": "一出好戏",
+            "url": "http://zuikzy.win7i.com/2018/08/11/Rq2pZ2KvkHBqugc2/playlist.m3u8",
+        },
+        {
+            "name": "蚁人2：黄蜂女现身",
+            "url": "http://zuikzy.51moca.com/2018/08/29/ObidbPeTg5W3BfD7/playlist.m3u8",
+        },
+        {
+            "name": "快把我哥带走",
+            "url": "http://zuikzy.51moca.com/2018/08/29/grn10Xdh1qAfIacw/playlist.m3u8",
+        },
+        {
+            "name": "新乌龙院之笑闹江湖",
+            "url": "http://zuikzy.51moca.com/2018/09/09/IJZeVjIQVxdRmzig/playlist.m3u8",
+        },
+        {
+            "name": "的士速递5",
+            "url": "http://vip.yingshidaqian.com/20180915/hr7rvVKo/index.m3u8",
+        },
+        {
+            "name": "欧洲攻略",
+            "url": "http://vip.yingshidaqian.com/20180914/GNml3u9n/index.m3u8",
+        },
+        {
+            "name": "碟中谍6：全面瓦解",
+            "url": "http://vip.yingshidaqian.com/20180913/XVG0xeVF/index.m3u8",
+        },
+        {
+            "name": "生如夏花",
+            "url": "http://zuikzy.51moca.com/2018/09/05/7f16chP9dCukrOIa/playlist.m3u8",
+        },
+        {
+            "name": "古墓兽影",
+            "url": "http://vip.yingshidaqian.com/20180913/fsPU5O3L/index.m3u8",
+        },
+        {
+            "name": "黄金兄弟",
+            "url": "https://zkgn.wb699.com/2018/09/22/FsjWNy7QTkihZfz7/playlist.m3u8",
+        },
+        {
+            "name": "反贪风暴3",
+            "url": "https://zkgn.wb699.com/2018/09/15/1EA6uw1TRmb6bISv/playlist.m3u8",
+        },
+        {
+            "name": "小偷家族",
+            "url": "http://zuikzy.win7i.com/2018/08/15/c2RACfYQjmursypW/playlist.m3u8",
+        },
+        {
+            "name": "邪不压正",
+            "url": "http://zuikzy.51moca.com/2018/08/24/0RxUys9rxMVnbRZN/playlist.m3u8",
+        },
+        {
+            "name": "摩天营救",
+            "url": "http://zuikzy.win7i.com/2018/08/11/K27tivJzryHAJ49Z/playlist.m3u8",
+        },
+        {
+            "name": "龙虾刑警",
+            "url": "http://zuikzy.win7i.com/2018/07/29/ttKgxJf6kqiPwuQf/playlist.m3u8",
+        },
+        {
+            "name": "侏罗纪世界2",
+            "url": "https://zkgn.wb699.com/2018/09/26/bsUCEk99bGDr1g4T/playlist.m3u8",
+        },
+        {
+            "name": "泄密者",
+            "url": "http://zuikzy.win7i.com/2018/07/18/iNEaVy8HlM7ADJSQ/playlist.m3u8",
+        },
+        {
+            "name": "猛虫过江",
+            "url": "http://zuikzy.win7i.com/2018/07/17/AjUXX4ET6Sinbq1L/playlist.m3u8",
+        },
+        {
+            "name": "我不是药神",
+            "url": "http://zuikzy.win7i.com/2018/07/10/FD2KhGi7xEzClPR9/playlist.m3u8",
+        },
+        {
+            "name": "精灵旅社3:疯狂假期",
+            "url": "https://zkgn.wb699.com/2018/09/17/itneAnK5KLSZ6DBg/playlist.m3u8",
+        },
+        {
+            "name": "吉屋",
+            "url": "https://zkgn.wb699.com/2018/10/09/8A2PTunwWX38FnII/playlist.m3u8",
+        },
+        {
+            "name": "让我怎么相信你",
+            "url": "https://zkgn.wb699.com/2018/10/09/PSlPvdbjmunKzlRl/playlist.m3u8",
+        },
+        {
+            "name": "柯南-零的执行人",
+            "url": "https://yong.yongjiu6.com/ppvod/2E32EFEB212473D155743D231B83EB03.m3u8",
+        },
+        {
+            "name": "黄金兄弟",
+            "url": "https://yong.yongjiu6.com/ppvod/290D25FAD82B535579582A85466DE095.m3u8",
+        },
+        {
+            "name": "深海历险记",
+            "url": "https://yong.yongjiu6.com/ppvod/30BAD40A90B9E5AA67E594E149F6A484.m3u8",
+        },
+        {
+            "name": "勇敢者游戏3",
+            "url": "https://aldirect.hls.huya.com/huyalive/94525224-2702136290-11605586994884771840-4573721796-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "异型怪物",
+            "url": "https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "生化危机",
+            "url": "https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "黑帮大片",
+            "url": "https://txdirect.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "红色经典片",
+            "url": "https://aldirect.hls.huya.com/huyalive/30765679-2533224718-10880117317228822528-3049003134-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "火蓝刀锋电影院",
+            "url": "https://aldirect.hls.huya.com/huyalive/94525224-2672445369-11478065460201652224-2777037926-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "爱情公寓",
+            "url": "https://aldirect.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "亮剑",
+            "url": "https://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "军旅神剧",
+            "url": "https://aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-1525510118-1_1200.m3u8",
+        },
+        {
+            "name": "魔幻手机",
+            "url": "https://aldirect.hls.huya.com/huyalive/29169025-2686220680-11537229970438881280-2847687524-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "新三国",
+            "url": "https://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "热血高校",
+            "url": "https://txdirect.hls.huya.com/huyalive/29169025-2686219818-11537226268177072128-2789253878-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "男神",
+            "url": "https://aldirect.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1_1200.m3u8",
+        },
+        {
+            "name": "鹿鼎记",
+            "url": "https://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "铁齿铜牙纪晓岚",
+            "url": "https://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "蓝球火",
+            "url": "https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "我是特种兵",
+            "url": "https://al.hls.huya.com/huyalive/30765679-2497296332-10725806074360758272-2789253834-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "神雕侠侣古天乐",
+            "url": "https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8",
+        },
+        {
+            "name": "医馆笑传",
+            "url": "https://txdirect.hls.huya.com/huyalive/29359996-2689637846-11551906586653884416-2847687566-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "特级战争片",
+            "url": "https://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "女神系列",
+            "url": "https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "女神系列",
+            "url": "https://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "终极一班",
+            "url": "https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "雍正王朝",
+            "url": "https://txdirect.hls.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "轩辕剑",
+            "url": "https://aldirect.hls.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "三国演义",
+            "url": "https://aldirect.hls.huya.com/huyalive/29169025-2686221140-11537231946123837440-3049003146-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "重案六组",
+            "url": "https://aldirect.hls.huya.com/huyalive/30765679-2523416621-10837991861377826816-2777027388-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "康熙王朝",
+            "url": "https://aldirect.hls.huya.com/huyalive/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "天龙八部",
+            "url": "https://aldirect.hls.huya.com/huyalive/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "龙门镖局",
+            "url": "https://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "伪装者",
+            "url": "https://js.hls.huya.com/huyalive/30765679-2554414866-10971128309886222336-3049003164-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "咱们结婚吧",
+            "url": "https://aldirect.hls.huya.com/huyalive/29106097-2689287372-11550401312285786112-2789253858-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "宝莲灯",
+            "url": "https://aldirect.hls.huya.com/huyalive/30765679-2525901744-10848665383389364224-2847699200-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "四大天王",
+            "url": "https://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "李小龙传奇",
+            "url": "https://aldirect.hls.huya.com/huyalive/28466698-2686637732-11539021195139612672-3048959574-10057-A-1524196077-1_1200.m3u8",
+        },
+        {
+            "name": "小李飞刀",
+            "url": "https://aldirect.hls.huya.com/huyalive/30765679-2554414889-10971128408670470144-3048991640-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "仙剑奇侠传",
+            "url": "https://aldirect.hls.huya.com/huyalive/29169025-2686221242-11537232384210501632-2847687560-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "春光灿烂猪八戒",
+            "url": "https://aldirect.hls.huya.com/huyalive/30765679-2554414938-10971128619123867648-3048959644-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "大秦帝国",
+            "url": "https://aldirect.hls.huya.com/huyalive/30765679-2554414808-10971128060778119168-3048959636-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "少林足球",
+            "url": "https://aldirect.hls.huya.com/huyalive/30765679-2672001664-11476159761737580544-3048991600-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "家有儿女",
+            "url": "http://aldirect.hls.huya.com/huyalive/29169025-2686221252-11537232427160174592-2847687508-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "铁齿铜牙纪晓岚",
+            "url": "http://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "士兵突击",
+            "url": "http://aldirect.hls.huya.com/huyalive/94525224-2579683622-11079656790516826112-2789274566-10057-A-1521167951-1_1200.m3u8",
+        },
+        {
+            "name": "跨界喜剧王第三季",
+            "url": "https://zkcdn.wb699.com/2018/09/30/UXYMS7IMw7Pjy5ez/playlist.m3u8",
+        },
+        {
+            "name": "港产恐咘搞笑",
+            "url": "https://aldirect.hls.huya.com/huyalive/30765679-2480413542-10653295043445522432-3048959596-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "隋唐英雄传·销魂的暴君杨广",
+            "url": "https://aldirect.hls.huya.com/huyalive/29359996-2689637532-11551905238034153472-2847687564-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "速度与激情",
+            "url": "https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "CCTV12高清",
+            "url": "http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8",
+        },
+        {
+            "name": "CCTV13",
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8",
+        },
+        {
+            "name": "江苏移动-CCTV1FHD",
+            "url": "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226316/index.m3u8",
+        },
+        {
+            "name": "江苏移动-CCTV1FHD",
+            "url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227462/index.m3u8",
+        },
+        {
+            "name": "江苏移动-CCTV1HD",
+            "url": "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226998/index.m3u8",
+        },
+        {
+            "name": "江苏移动-CCTV3FHD",
+            "url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226360/index.m3u8",
+        },
+        {
+            "name": "江苏移动-CCTV3FHD",
+            "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227032/index.m3u8",
+        },
+        {
+            "name": "江苏移动-CCTV3FHD",
+            "url": "http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227415/index.m3u8",
+        },
+        {
+            "name": "江苏移动-CCTV4",
+            "url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8",
+        },
+        {
+            "name": "江苏移动-CCTV8",
+            "url": "http://223.110.245.141/ott.js.chinamobile.com/PLTV/3/224/3221225866/index.m3u8",
+        },
+        {
+            "name": "江苏移动-CCTV8FHD",
+            "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227418/index.m3u8",
+        },
+        {
+            "name": "江苏移动-CCTV10",
+            "url": "http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227317/index.m3u8",
+        },
+        {
+            "name": "江苏移动-CCTV11",
+            "url": "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227384/index.m3u8",
+        },
+        {
+            "name": "江苏移动-CCTV12",
+            "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221226019/index.m3u8",
+        },
+        {
+            "name": "江苏移动-CCTV13",
+            "url": "http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221226021/index.m3u8",
+        },
+        {
+            "name": "江苏移动-CCTV15",
+            "url": "http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221225568/index.m3u8",
+        },
+        {
+            "name": "南京移动-CETV1",
+            "url": "http://183.207.249.6/PLTV/3/224/3221225622/index.m3u8",
+        },
+        {
+            "name": "南京移动-CGTN",
+            "url": "http://183.207.249.6/PLTV/3/224/3221225572/index.m3u8",
+        },
+        {
+            "name": "北京卫视HD",
+            "url": "http://223.110.243.173/PLTV/3/224/3221227246/index.m3u8",
+        },
+        {
+            "name": "安徽卫视FHD",
+            "url": "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8",
+        },
+        {
+            "name": "兵团卫视",
+            "url": "http://ivi.bupt.edu.cn/hls/bttv.m3u8",
+        },
+        {
+            "name": "重庆卫视",
+            "url": "http://223.82.250.72/live/chongqingstv/1.m3u8",
+        },
+        {
+            "name": "东方卫视HD",
+            "url": "http://223.110.243.138/PLTV/3/224/3221227208/index.m3u8",
+        },
+        {
+            "name": "广东卫视HD",
+            "url": "http://223.110.243.136/PLTV/3/224/3221227249/index.m3u8",
+        },
+        {
+            "name": "广东卫视",
+            "url": "http://183.207.248.11/PLTV/4/224/3221225864/index.m3u8",
+        },
+        {
+            "name": "广东卫视HD",
+            "url": "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225906/index.m3u8",
+        },
+        {
+            "name": "广西卫视",
+            "url": "http://223.82.250.72/live/guangxistv/1.m3u8",
+        },
+        {
+            "name": "贵州卫视",
+            "url": "http://223.82.250.72/live/guizhoustv/1.m3u8",
+        },
+        {
+            "name": "贵州卫视",
+            "url": "http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/guizhoustv/1.m3u8",
+        },
+        {
+            "name": "河北卫视",
+            "url": "http://223.82.250.72/live/hebeistv/1.m3u8",
+        },
+        {
+            "name": "河北卫视HD",
+            "url": "http://weblive.hebtv.com/live/hbws_bq/index.m3u8",
+        },
+        {
+            "name": "河北卫视HD",
+            "url": "http://weblive.hebtv.com/live/hbws_lc/index.m3u8",
+        },
+        {
+            "name": "河南卫视",
+            "url": "http://121.31.30.90:8085/ysten-business/live/henanstv/1.m3u8",
+        },
+        {
+            "name": "河南卫视HD",
+            "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8",
+        },
+        {
+            "name": "黑龙江FHD",
+            "url": "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227323/index.m3u8",
+        },
+        {
+            "name": "湖北卫视HD",
+            "url": "http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8",
+        },
+        {
+            "name": "湖南卫视HD",
+            "url": "http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8",
+        },
+        {
+            "name": "湖南卫视HD",
+            "url": "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221225908/index.m3u8",
+        },
+        {
+            "name": "湖南卫视HD",
+            "url": "http://223.82.250.72/live/hdhunanstv/1.m3u8",
+        },
+        {
+            "name": "山东卫视HD",
+            "url": "http://223.110.243.171/PLTV/3/224/3221227258/index.m3u8",
+        },
+        {
+            "name": "山东卫视HD",
+            "url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226003/index.m3u8",
+        },
+        {
+            "name": "山西卫视",
+            "url": "http://223.82.250.72/live/shanxistv/1.m3u8",
+        },
+        {
+            "name": "陕西卫视",
+            "url": "http://223.82.250.72/live/shanxi1stv/1.m3u8",
+        },
+        {
+            "name": "深圳卫视HD",
+            "url": "http://223.110.243.171/PLTV/3/224/3221227217/index.m3u8",
+        },
+        {
+            "name": "深圳卫视HD",
+            "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225997/index.m3u8",
+        },
+        {
+            "name": "四川卫视HD",
+            "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8",
+        },
+        {
+            "name": "天津卫视FHD",
+            "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227212/index.m3u8",
+        },
+        {
+            "name": "厦门卫视",
+            "url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8",
+        },
+        {
+            "name": "厦门卫视",
+            "url": "http://cstv.live.wscdns.com/live/xiamen/playlist.m3u8",
+        },
+        {
+            "name": "新疆卫视",
+            "url": "http://223.82.250.72/live/xinjiangstv/1.m3u8",
+        },
+        {
+            "name": "浙江卫视HD",
+            "url": "http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8",
+        },
+        {
+            "name": "浙江卫视FHD",
+            "url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227393/index.m3u8",
+        },
+        {
+            "name": "浙江卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/zhejiangstv/zhejiangstv",
+        },
+        {
+            "name": "湖南卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/hunanstv/hunanstv",
+        },
+        {
+            "name": "湖北卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/hubeistv/hubeistv",
+        },
+        {
+            "name": "东方卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/dongfangstv/dongfangstv",
+        },
+        {
+            "name": "天津卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/tianjinstv/tianjinstv",
+        },
+        {
+            "name": "云南卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/yunnanstv/yunnanstv",
+        },
+        {
+            "name": "四川卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/sichuanstv/sichuanstv",
+        },
+        {
+            "name": "重庆卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/chongqingstv/chongqingstv",
+        },
+        {
+            "name": "贵州卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/guizhoustv/guizhoustv",
+        },
+        {
+            "name": "广西卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/guangxistv/guangxistv",
+        },
+        {
+            "name": "广东卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/guangdongstv/guangdongstv",
+        },
+        {
+            "name": "北京卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/beijingstv/beijingstv",
+        },
+        {
+            "name": "河北卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/hebeistv/hebeistv",
+        },
+        {
+            "name": "江苏卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/jiangsustv/jiangsustv",
+        },
+        {
+            "name": "江西卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/jiangxistv/jiangxistv",
+        },
+        {
+            "name": "安徽卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/anhuistv/anhuistv",
+        },
+        {
+            "name": "福建卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/dongnanstv/dongnanstv",
+        },
+        {
+            "name": "山东卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/shandongstv/shandongstv",
+        },
+        {
+            "name": "山西卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/shanxistv/shanxistv",
+        },
+        {
+            "name": "吉林卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/jilinstv/jilinstv",
+        },
+        {
+            "name": "河南卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/henanstv/henanstv",
+        },
+        {
+            "name": "辽宁卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/liaoningstv/liaoningstv",
+        },
+        {
+            "name": "内蒙古卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/neimenggustv/neimenggustv",
+        },
+        {
+            "name": "陕西卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/shanxi1stv/shanxi1stv",
+        },
+        {
+            "name": "宁夏卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/ningxiastv/ningxiastv",
+        },
+        {
+            "name": "甘肃卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/gansustv/gansustv",
+        },
+        {
+            "name": "青海卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/qinghaistv/qinghaistv",
+        },
+        {
+            "name": "新疆卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/xinjiangstv/xinjiangstv",
+        },
+        {
+            "name": "西藏卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/xizangstv/xizangstv",
+        },
+        {
+            "name": "山东教育",
+            "url": "http://223.110.242.130:6610/cntv/live1/shandongjy/shandongjy",
+        },
+        {
+            "name": "浙江卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/zhejiangstv/1.m3u8",
+        },
+        {
+            "name": "湖南卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/hunanstv/1.m3u8",
+        },
+        {
+            "name": "湖北卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/hubeistv/1.m3u8",
+        },
+        {
+            "name": "东方卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/dongfangstv/1.m3u8",
+        },
+        {
+            "name": "天津卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/tianjinstv/1.m3u8",
+        },
+        {
+            "name": "云南卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/yunnanstv/1.m3u8",
+        },
+        {
+            "name": "四川卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/sichuanstv/1.m3u8",
+        },
+        {
+            "name": "重庆卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/chongqingstv/1.m3u8",
+        },
+        {
+            "name": "贵州卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/guizhoustv/1.m3u8",
+        },
+        {
+            "name": "广西卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/guangxistv/1.m3u8",
+        },
+        {
+            "name": "广东卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/guangdongstv/1.m3u8",
+        },
+        {
+            "name": "北京卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/beijingstv/1.m3u8",
+        },
+        {
+            "name": "河北卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/hebeistv/1.m3u8",
+        },
+        {
+            "name": "江苏卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/jiangsustv/1.m3u8",
+        },
+        {
+            "name": "江西卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/jiangxistv/1.m3u8",
+        },
+        {
+            "name": "安徽卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/anhuistv/1.m3u8",
+        },
+        {
+            "name": "福建卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/dongnanstv/1.m3u8",
+        },
+        {
+            "name": "山东卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/shandongstv/1.m3u8",
+        },
+        {
+            "name": "山西卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/shanxistv/1.m3u8",
+        },
+        {
+            "name": "吉林卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/jilinstv/1.m3u8",
+        },
+        {
+            "name": "河南卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/henanstv/1.m3u8",
+        },
+        {
+            "name": "辽宁卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/liaoningstv/1.m3u8",
+        },
+        {
+            "name": "内蒙古卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/neimenggustv/1.m3u8",
+        },
+        {
+            "name": "陕西卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/shanxi1stv/1.m3u8",
+        },
+        {
+            "name": "宁夏卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/ningxiastv/1.m3u8",
+        },
+        {
+            "name": "甘肃卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/gansustv/1.m3u8",
+        },
+        {
+            "name": "青海卫视",
+            "url": "http://223.110.242.130:6610/cntv/live1/qinghaistv/1.m3u8",
+        },
+        {
+            "name": "湖北小品2",
+            "url": "https://vd3.bdstatic.com/mda-igj061msvkg52k3u/sc/mda-igj061msvkg52k3u.mp4",
+        }
+
+
+
+   ]
+}
