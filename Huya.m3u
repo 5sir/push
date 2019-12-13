@@ -75,18 +75,12 @@ http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2
 http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
 #EXTINF:-1 ,电影-赌博
 http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
-#EXTINF:-1 ,电影-成龙
-http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,电影-李连杰
 http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,电影-女神港片
 http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
 #EXTINF:-1 ,电影-丧尸
 http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
-#EXTINF:-1 ,电影-灾难
-http://tx.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1.m3u8
-#EXTINF:-1 ,电影-惊悚
-http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
 #EXTINF:-1 ,电影-复仇犯罪
 http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
 #EXTINF:-1 ,电影-甄子丹
@@ -101,18 +95,6 @@ http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 #EXTINF:-1 ,电影-速度与激情
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,电影-周星驰02
-http://alhls.cdn.zhanqi.tv/zqlive/93774_g0UdM.m3u8
-#EXTINF:-1 ,电影-好莱坞动作
-http://alhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
-#EXTINF:-1 ,电影-香港喜剧
-http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
-#EXTINF:-1 ,电影-奥特曼
-http://alhls.cdn.zhanqi.tv/zqlive/80918_cr4oy.m3u8
-#EXTINF:-1 ,电影-漫威世界
-http://alhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8
-#EXTINF:-1 ,电影-周星驰
-http://alhls.cdn.zhanqi.tv/zqlive/264147_VU1iK.m3u8
 #EXTINF:-1 ,电视剧-爱情公寓
 https://tx.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,电视剧-陈翔六点半
@@ -165,8 +147,6 @@ https://aldirect.hls.huya.com/huyalive/29169025-2686221140-11537231946123837440-
 https://aldirect.hls.huya.com/huyalive/30765679-2480428944-10653361194531815424-2789274554-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,电视剧-康熙微服私访
 https://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,电视剧-热血高校
-https://txdirect.hls.huya.com/huyalive/29169025-2686219818-11537226268177072128-2789253878-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,电视剧-隋唐英雄传
 https://aldirect.hls.huya.com/huyalive/29359996-2689637532-11551905238034153472-2847687564-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,电视剧-雪山飞狐
@@ -219,19 +199,5 @@ https://aldirect.hls.huya.com/huyalive/30765679-2554414938-10971128619123867648-
 https://aldirect.hls.huya.com/huyalive/28466698-2689654812-11551979455069028352-2847687626-10057-A-1525510268-1_1200.m3u8
 #EXTINF:-1 ,电视剧-少年锦衣卫
 https://aldirect.hls.huya.com/huyalive/30765679-2475855302-10633717551718203392-2847687536-10057-A-1523416572-1_1200.m3u8
-#EXTINF:-1 ,电视剧-圆月弯刀
-https://ws.streamhls.huya.com/huyalive/1444264131-1444264131-6203067209430859776-2884953448-10057-A-0-1_1200/playlist.m3u8
 #EXTINF:-1 ,电视剧-道师爷
 https://aldirect.hls.huya.com/huyalive/29359996-2689642844-11551928052900429824-2847699142-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,电视剧-雪豹
-http://alhls.cdn.zhanqi.tv/zqlive/115384_jC7nR.m3u8
-#EXTINF:-1 ,电视剧-家有儿女
-http://alhls.cdn.zhanqi.tv/zqlive/199301_y2bWG.m3u8
-#EXTINF:-1 ,电视剧-后宫.甄嬛传
-http://alhls.cdn.zhanqi.tv/zqlive/264417_dPUXM.m3u8
-#EXTINF:-1 ,日剧-孤独的美食者
-http://alhls.cdn.zhanqi.tv/zqlive/118948_F0Rim.m3u8
-#EXTINF:-1 ,港剧-刑事侦缉档案
-http://alhls.cdn.zhanqi.tv/zqlive/264421_0rVE9.m3u8
-#EXTINF:-1 ,港剧-陀枪师姐
-http://alhls.cdn.zhanqi.tv/zqlive/264395_mnbIi.m3u8
