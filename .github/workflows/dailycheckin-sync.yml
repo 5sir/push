@@ -34,6 +34,6 @@ jobs:
         with:
           src: github/5sir
           dst: gitee/0x23
-          static_list: "jd_scripts"
+          static_list: "Collection"
           dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
           dst_token: ${{ secrets.GITEE_TOKEN }}
